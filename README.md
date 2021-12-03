@@ -60,6 +60,10 @@ YOLO: https://arxiv.org/abs/1506.02640
 
 YOLO9000: https://arxiv.org/abs/1612.08242
 
+## Reinforcement Learning
+
+Playing Atari: https://arxiv.org/pdf/1312.5602v1.pdf
+
 ## Other
 
 DocParser: https://arxiv.org/abs/1911.01702 (Mask R-CNN)
