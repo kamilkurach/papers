@@ -60,7 +60,8 @@ YOLO: https://arxiv.org/abs/1506.02640
 
 YOLO9000: https://arxiv.org/abs/1612.08242
 
-## Applications
+## Other
 
 DocParser: https://arxiv.org/abs/1911.01702 (Mask R-CNN)
 
+Binarized Neural Networks: https://papers.nips.cc/paper/6573-binarized-neural-networks
