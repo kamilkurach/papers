@@ -52,8 +52,15 @@ Fast-RCNN: https://arxiv.org/abs/1504.08083
 
 Faster-RCNN: https://arxiv.org/abs/1506.01497
 
+Mask R-CNN: https://arxiv.org/abs/1703.06870
+
 SSD: https://arxiv.org/abs/1512.02325
 
 YOLO: https://arxiv.org/abs/1506.02640
 
 YOLO9000: https://arxiv.org/abs/1612.08242
+
+## Applications
+
+DocParser: https://arxiv.org/abs/1911.01702 (Mask R-CNN)
+
