@@ -65,3 +65,6 @@ YOLO9000: https://arxiv.org/abs/1612.08242
 DocParser: https://arxiv.org/abs/1911.01702 (Mask R-CNN)
 
 Binarized Neural Networks: https://papers.nips.cc/paper/6573-binarized-neural-networks
+
+DreamCoder: https://arxiv.org/abs/2006.08381
+
