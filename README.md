@@ -73,3 +73,6 @@ Binarized Neural Networks: https://papers.nips.cc/paper/6573-binarized-neural-ne
 DreamCoder: https://arxiv.org/abs/2006.08381
 
 Physics-based Human Motion Estimation and Synthesis from Videos: https://arxiv.org/abs/2109.09913
+
+Practical Reinforcement Learning For MPC: https://arxiv.org/abs/2003.03200
+
