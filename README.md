@@ -2,6 +2,8 @@
 
 AlexNet: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
 
+Colab notebook: https://colab.research.google.com/drive/1a1b_932EMueQXTrH5LAszh0x8VdVw3M-?usp=sharing
+
 ZFNet: https://arxiv.org/abs/1311.2901
 
 VGG16: https://arxiv.org/abs/1505.06798
